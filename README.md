@@ -19,6 +19,6 @@ npm run build / yarn build
 ```
 npm run lint / yarn lint
 ```
-
+账号/密码：admin/admin
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
